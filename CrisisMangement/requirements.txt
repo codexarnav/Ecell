@@ -1,0 +1,14 @@
+requests
+json
+torch
+librosa
+soundfile 
+PyPDF2
+spacy
+sqlite3
+math
+functools 
+streamlit 
+twilio
+hashlib
+tempfile
